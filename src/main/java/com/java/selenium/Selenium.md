@@ -1,0 +1,1 @@
+1)How to verify alert present on UI or not 

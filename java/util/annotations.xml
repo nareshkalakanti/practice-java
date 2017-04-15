@@ -1,0 +1,6 @@
+<root>
+  <item name='java.util.TreeSet E ceiling(E)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+    <annotation name='java.lang.annotation.Deprecated'/>
+  </item>
+</root>
