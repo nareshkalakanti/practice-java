@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class AllSeleniumTests {
 
     @Test
-    public void allSeleniumTests(){
+    public void allSeleniumTests() {
         WebDriver driver = new FirefoxDriver();
-        driver.switchTo().alert();
+    }
 }

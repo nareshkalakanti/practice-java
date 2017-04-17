@@ -9,17 +9,6 @@ public class For_Loop {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 /*
 
 Syntax:
