@@ -124,7 +124,33 @@ ex :
        }
  */
 
+/*
+===More Notes===
+Abstarct base classes
+1) Abstract class is a class that is Abstract
+2)An abstract method is a method without implemention
+3) same like methods in interfaces
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ */
 
 
 

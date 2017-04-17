@@ -1,4 +1,4 @@
-package imageeditingtool;
+package com.java.test;
 
 public class Rectangle {
     private double length;
