@@ -12,8 +12,6 @@ for(int i=0; i<=str.length()-1; i++)
 if(str.charAt(i)==c)
 {
 System.out.println(str.charAt(i));
-3
-3
 
 
 count++;
